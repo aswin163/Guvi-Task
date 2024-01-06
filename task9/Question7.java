@@ -16,7 +16,7 @@ public class Question7 {
 		int Largest;
 		Largest = Math.max(Math.max(a,b),c);
 		System.out.println("The largest number is : " +Largest);
-	
+		
 	}
 
 }

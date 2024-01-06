@@ -26,6 +26,7 @@ public class Question6 {
 			bill=stay*(hike+rent);
 		System.out.println("Your total Bill is: " +bill);
 		break;
+		
 			
 		}
 	}

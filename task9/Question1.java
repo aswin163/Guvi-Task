@@ -18,6 +18,7 @@ public class Question1 {
 			System.out.println("Given word is palindrome");
 		}else {
 			System.out.println("Given word is not a palindrome");
+			
 		}
 
 	}

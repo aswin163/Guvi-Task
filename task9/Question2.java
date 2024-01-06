@@ -13,8 +13,7 @@ public class Question2 {
 		for(int i=0; i<str.length(); i++) {
 			ch = str.charAt(i);
 			rstr=ch+rstr;
-		
-		}
+				}
 		System.out.println("Reversed Word: " +rstr);
 
 	}

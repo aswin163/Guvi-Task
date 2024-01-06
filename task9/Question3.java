@@ -1,6 +1,7 @@
 package task9;
 //Q3. Program to print the given number pattern
 
+
 public class Question3 {
 
 	public static void main(String[] args) {
